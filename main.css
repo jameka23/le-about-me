@@ -5,22 +5,28 @@ Your place of birth should have a background color of #FF7F50.
 4. Push this application to a new repo named "le-about-me".
 */
 
-body {
+/* body {
     background-color: blue;
-}
+} */
 
 .about-me {
-    
+    margin: 153px;
 }
 
 .name {
     border: 1px black dashed;
+    padding-left: 40%;
+    padding-right: 37%;
 }
 
 .birthplace {
     background-color: #FF7F50;
+    padding-left: 40%;
+    padding-right: 37%;
 }
 
 .birthdate {
     font-style: italic;
+    padding-left: 43%;
+    padding-right: 37%;
 }
